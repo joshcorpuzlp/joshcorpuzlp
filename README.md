@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joshcorpuzlp
+- 👀 I’m currently working on earning my Bachelor's degree in Computer Science!
+- 🌱 At the momment, I am learning front-end web development technologies, Java, C++, Python, as well as MySQL and PostgreSQL.
+- 📫 You can reach me via email: joshcorpuzlp@gmail.com for any inquiries!
