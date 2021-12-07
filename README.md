@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshcorpuzlp
-- 👀 I’m currently working on earning my Bachelor's degree in Computer Science!
+- 👀 I’m a software developer based in Houston, TX and currently working on earning my Bachelor's degree in Computer Science!
 - 🌱 At the momment, I am learning front-end web development technologies, Java, C++, Python, as well as MySQL and PostgreSQL.
 - FEEL FREE TO CHECKOUT MY REPOSITORIES FOR THE PROJECTS I HAVE WORKED ON OR CURRENTLY WORKING ON, ENJOY!
 - 📫 You can reach me via email: joshcorpuzlp@gmail.com for any inquiries!
